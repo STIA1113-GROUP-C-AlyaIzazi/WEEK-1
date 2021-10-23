@@ -1,0 +1,59 @@
+package exercise1;
+
+public class checkerPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("* * * * *");
+        System.out.println(" * * * * *");
+        System.out.println("* * * * *");
+        System.out.println(" * * * * *");
+        System.out.println("* * * * *");
+	}
+
+}
+
+package exercise1;
+
+public class squarePattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("* * * * *");
+        System.out.println("*       *");
+        System.out.println("*       *");
+        System.out.println("*       *");
+        System.out.println("* * * * *");
+	}
+
+}
+
+package exercise1;
+
+public class starPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("    *");
+        System.out.println("* *   * *");
+        System.out.println("   * *");
+        System.out.println("  *   *");
+        System.out.println(" *     *");
+	}
+
+}
+
+package exercise1;
+
+public class triangularPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("* * * * *");
+        System.out.println(" *     *");
+        System.out.println("  *   *");
+        System.out.println("   * *");
+        System.out.println("    *");
+	}
+
+}
